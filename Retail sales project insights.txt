@@ -1,0 +1,22 @@
+Customer Insights
+1. Female customers contributed slightly more revenue (?232,840) than males (?223,160).
+2. 34 age to 54 age group people added more sales value where as people from age group 18 to 25 added least sales value
+
+Product Insights
+1.Electronics bring in the highest revenue, followed closely by Clothing and Beauty. Even though Electronics dominate, the other two categories are not far behind.
+2.Customers tend to buy fewer but higher-priced items in Electronics, while Clothing and Beauty drive sales more through quantity. Cross-selling opportunities exist here — for example, pairing Clothing with Beauty products — while Electronics can be pushed using financing options or easy EMI plans, especially for younger shoppers.
+
+Sales Behaviour:
+1.Quantity: Most transactions are for 1–3 units (median = 3).
+
+Time Trends:
+1.Looking at the monthly sales it is observed that there were peak sales in the months of May, October and December.
+2.Low sales were also observed in March and November 
+
+Strategic Recommendations
+1.Target female shoppers with tailored marketing campaigns  (women-focused offers).
+2.For Age 34-54: promote premium/luxury products, bundle offers.
+3.For Age 18-25: introduce discounts, entry-level products, or student offers to boost engagement.
+4.Investigate seasonal/holiday promotions in May.
+5.Run targeted marketing in low months (March/April) to balance revenue (clearance sales, online campaigns).
+
